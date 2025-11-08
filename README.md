@@ -1,8 +1,8 @@
-## Machine Performance Data Analyis for Smart Manufacuring Parctice
+## Machine Performance Data Analysis for Smart Manufacturing Practice
 
 ## Repository Outline
 1. README.md - About the project
-2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
+2. notebook.ipynb - The code and analysis results
 3. dataset.csv - Dataset as source for data analysis
 
 ## Problem Background
@@ -28,9 +28,9 @@ This project employs a combination of data visualization techniques using Python
 
 ## Stacks
 The programming language, tools, and Python libraries utilized in this project, including:
-- Pandas (`import pandas as pd`) – used for data manipulation and analysis, especially in tabular form (DataFrame), such as reading, cleaning, and analyzing data.
-- SciPy Stats (`from scipy import stats` and `from scipy.stats import skew, kurtosis`) – used for performing statistical analysis, including the calculation of skewness (asymmetry of distribution) and kurtosis (peakedness of distribution).
-- Matplotlib Pyplot (`import matplotlib.pyplot as plt`) – used for data visualization through graphs or plots such as histograms, line plots, and scatter plots.
+- Pandas – used for data manipulation and analysis, especially in tabular form (DataFrame), such as reading, cleaning, and analyzing data.
+- SciPy Stats – used for performing statistical analysis, including the calculation of skewness (asymmetry of distribution) and kurtosis (peakedness of distribution).
+- Matplotlib Pyplot – used for data visualization through graphs or plots such as histograms, line plots, and scatter plots.
 
 ## Reference
 - [Dataset Source](https://www.kaggle.com/datasets/ziya07/smart-manufacturing-resource-efficiency-dataset)
@@ -39,4 +39,4 @@ The programming language, tools, and Python libraries utilized in this project, 
 ---
 
 **Other Reference:**
-- 
+-
